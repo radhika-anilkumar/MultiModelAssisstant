@@ -91,7 +91,7 @@ LLaMA2 pulled:
 ollama pull llama2
 
 # Clone & setup
-git clone https://github.com/lekshmi-c/multimodal-assistant
+git clone https://github.com/radhika-anilkumar/RagApplication.git
 cd multimodal-assistant
 python -m venv .venv
 .venv\Scripts\activate
